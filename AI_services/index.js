@@ -20,39 +20,6 @@ app.get('', (req, res) => {
 
 });
 
-// const qs = require('qs');
-
-// const url = 'http://127.0.0.1:81';
-// const data = qs.stringify({
-//   input_text: 'What is Linear Regression?'
-// });
-
-// const config = {
-//   headers: {
-//     'Content-Type': 'application/x-www-form-urlencoded'
-//   },
-//   timeout: 5000  // optional timeout
-// };
-
-// axios.post(url, data, config)
-//   .then(response => {
-//     console.log('Response:', response.data);
-//   })
-//   .catch(error => {
-//     if (error.response) {
-//       // Server responded with a status other than 200 range
-//       console.error('Error Response:', error.response.status);
-//       console.error('Error Data:', error.response.data);
-//     } else if (error.request) {
-//       // Request was made but no response received
-//       console.error('Error Request:', error.request);
-//     } else {
-//       // Something else happened in making the request
-//       console.error('Error:', error.message);
-//     }
-//   });
-
-
 
 
 //translate function 
