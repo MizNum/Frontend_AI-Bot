@@ -29,7 +29,7 @@ AI Bot is an Angular application that integrates with various npm packages to pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-bot.git
+   git clone https://github.com/MizNum/Frontend_AI-Bot.git
    cd ai-bot
 
 ## Install Angular CLI globally if not already installed:
@@ -85,11 +85,6 @@ The project uses the following npm packages:
 `tslib`
 `zone.js`
 
-## Contributing
-For more details, refer to the package.json file.Contributions are welcome! Please fork the repository and submit a pull request for review.
-
-## License
-This `README.md` file provides a clear and structured overview of the Angular project, with setup instructions, usage details, and an outline of the project's dependencies and structure.
 
 
 
