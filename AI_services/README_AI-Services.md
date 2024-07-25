@@ -35,7 +35,7 @@ Description: Sends an OTP to the specified email.
 
 Request Body:
 {
-  "email": "user@example.com"
+  "email": "user@(/stud)th-bingen.de"
 }
 
 Response:
