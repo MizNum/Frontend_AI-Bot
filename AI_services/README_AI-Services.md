@@ -67,10 +67,10 @@ GS_KEY_URL=your-google-translate-api-url
 
 For more details, refer to the package.json file.
 
-
+## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 
-
+## License
 This `README.md` file provides a clear and concise overview of the project, including setup instructions, usage examples, and contribution guidelines.
 
 
