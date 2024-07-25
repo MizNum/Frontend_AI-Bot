@@ -23,7 +23,7 @@ A service that provides OTP verification and translation functionalities using v
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/service.git
+   git clone https://github.com/MizNum/Frontend_AI-Bot.git
    cd service
 
 npm install
